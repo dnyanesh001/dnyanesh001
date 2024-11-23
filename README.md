@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dnyanesh Nitin Bhole</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<p align="left" background="Pink"> <img  src="https://komarev.com/ghpvc/?username=dnyanesh001&label=Profile%20views&color=0e75b6&style=flat" alt="dnyanesh001" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=dnyanesh001&label=Profile%20views&color=0e75b6&style=flat" alt="dnyanesh001" /> </p>
 <img width="400" src="https://www.bing.com/th/id/OGC.4984c0ac41b13002de2873e622efa63c?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fb9%2fe4%2f96%2fb9e4960c1476c78043d499d975f86cdb.gif&ehk=J4X6FmYsG4DX9oBJaNMsESSeIoO%2bhJYXjnyc%2fpA8XYM%3d" align="right" alt="dnyanesh001">
 
 - 🔭 I’m currently working on **Fullstack Development course**
@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"><b>Programming Languages</b><br>
+<p align="center" style="bakground-color:blue;"><b>Programming Languages</b><br>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-            original.svg" alt="c" width="40" height="40"/> 
   </a>
