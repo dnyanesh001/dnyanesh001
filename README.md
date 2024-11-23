@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:810/1*8_uUnP2g8H8Zj3N_KktFtw.png" alt="nestjs" width="40" height="40"/> 
+    <img src="https://vectorseek.com/wp-content/uploads/2023/09/NestJS-Logo-Vector.svg-.png" alt="nestjs" width="40" height="40"/> 
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
