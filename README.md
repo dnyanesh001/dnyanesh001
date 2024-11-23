@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **erdnyanesh@gmail.com**
 
-- ⚡ Fun fact ***My favorite language is JAVA<br/>*I like to play cricket<br/>*My favorite book is 'Atomic Habits' by James Clear**
+- ⚡ Fun fact ***<br/>My favorite language is JAVA<br/>*I like to play cricket<br/>*My favorite book is 'Atomic Habits' by James Clear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
