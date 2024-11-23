@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyanesh001&label=Profile%20views&color=0e75b6&style=flat" alt="dnyanesh001" /> </p>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=P4P%2fdtKk&id=1AC8BE7359701B76499A9C3A479C612511E0BF61&thid=OIP.P4P_dtKk5nhiexXv1Hk9eQHaFj&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f81%2f17%2f8b%2f81178b47a8598f0c81c4799f2cdd4057.gif&exph=600&expw=800&q=software+engineering+gif&simid=608036549633923289&FORM=IRPRST&ck=5DE042E0BB54808E972771C37AEBE691&selectedIndex=22&itb=0" align="right" alt="dnyanesh001">
 
 - 🔭 I’m currently working on **Fullstack Development course**
 
