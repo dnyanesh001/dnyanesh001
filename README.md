@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack Development course**
 
-- 🌱 I’m currently learning **MERN stack, Java full stack**
+- 🌱 I’m currently learning **MEAN stack, Java full stack**
 
 - 👯 I’m looking to collaborate on **ecommerce projects**
 
