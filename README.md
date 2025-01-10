@@ -1,4 +1,4 @@
-![logo](https://github.com/dnyanesh001/dnyanesh001/blob/main/github-header-image.png?raw=true)
+![github-header-image](https://github.com/user-attachments/assets/50b89abb-126d-4584-af1e-901ef6b2671a)
 <h1 align="center">Hi 👋, I'm Dnyanesh Nitin Bhole</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
