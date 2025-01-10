@@ -27,7 +27,7 @@
 <img src="https://i.gifer.com/origin/79/7906aee31abc5e315d49baf8785b1e21.gif" width="500" height="500" align="right">
 Programming Languages<br/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69" alt="c" width="40" height="40"/> 
+    <img src="https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69" alt="c" width="80" height="80"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
