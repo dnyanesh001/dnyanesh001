@@ -27,13 +27,13 @@
 <img src="https://i.gifer.com/origin/79/7906aee31abc5e315d49baf8785b1e21.gif" width="500" height="500" align="right">
 Programming Languages<br/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69" alt="c" width="100" height="80"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.redd.it/nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69" alt="cplusplus" width="100" height="80"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/java-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-social-media-company-and-all-pack-logos-icons-5606041.mp4" alt="java" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -45,6 +45,7 @@ Programming Languages<br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a><br/>
  Frontend Development<br/>
+ <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
