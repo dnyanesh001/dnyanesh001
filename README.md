@@ -33,7 +33,7 @@ Programming Languages<br/>
     <img src="https://i.redd.it/nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69" alt="cplusplus" width="100" height="80"/> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+      <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/java-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-social-media-company-and-all-pack-logos-icons-5606041.mp4" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
