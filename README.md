@@ -109,7 +109,7 @@ Public Repositories: 15 | Followers: 8 | Following: 3
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnyanesh001&show_icons=true&theme=radical)
 
  ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnyanesh001&theme=dark&border_radius=8.1&card_width=550&fire=7814EB&background=6%2C560353A0%2C762BEBAF&ring=EB0624&border=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=github.com%2Fdnyanesh001&theme=dark&border_radius=8.1&card_width=550&fire=7814EB&background=6%2C560353A0%2C762BEBAF&ring=EB0624&border=EB5454)](https://git.io/streak-stats)
 
 <picture>
   <source
