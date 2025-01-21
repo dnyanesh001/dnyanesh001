@@ -103,7 +103,10 @@ Programming Languages<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyanesh001&show_icons=true&locale=en" alt="dnyanesh001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh001&" alt="dnyanesh001" /></p>
+## GitHub Stats
+
+Public Repositories: 15 | Followers: 8 | Following: 3 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnyanesh001&show_icons=true&theme=radical)
 
 <picture>
   <source
