@@ -101,8 +101,6 @@ Programming Languages<br/>
   </a>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnyanesh001&show_icons=true&locale=en&layout=compact" alt="dnyanesh001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyanesh001&show_icons=true&locale=en" alt="dnyanesh001" /></p>
-
 ## GitHub Stats
 
 Public Repositories: 15 | Followers: 8 | Following: 3 
