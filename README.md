@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Automation testing frameworks.**
 
-- 📫 How to reach me **erdnyanesh@gmail.com**
+- 📫 How to reach me **erdnyanesh2022@gmail.com**
 
 - ⚡ Fun fact ***<br/>My favorite language is JAVA<br/>*I like to play cricket<br/>*My favorite book is 'Atomic Habits' by James Clear**
 
