@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/user-attachments/assets/50b89abb-126d-4584-af1e-901ef6b2671a)
-<h1 align="center">Hi 👋, I'm Dnyanesh Nitin Bhole</h1>
+<h1 align="center">Hi 👋, I'm Dnyanesh Bhole</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=dnyanesh001&label=Profile%20views&color=0e75b6&style=flat" alt="dnyanesh001" /> </p>
